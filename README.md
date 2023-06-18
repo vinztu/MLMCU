@@ -1,6 +1,6 @@
 # MLMCU
 
-From the course: Machine Learning on Microcontrollers
+From the course: Machine Learning on Microcontrollers at ETH Zurich
 
 The code follows the description of [Maxim Integrated AI Development](https://github.com/MaximIntegratedAI/ai8x-training.git) for implementing a convolutional neural network on the MAX78000FTHR from Maxim Integrated. The dataset is based on the Intel Scene Classification Challenge which was released by Analytics Vidhya in collaboration with Intel. The dataset includes 25’000 Images with 6 Categories: Buildings, Forest, Glacier, Mountain, Sea, Street and can be downloaded from [kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification). 
 
